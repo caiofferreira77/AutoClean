@@ -79,7 +79,7 @@ export const Hero = () => {
           >
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl dark:shadow-blue-900/20 aspect-[4/3]">
               <img 
-                src="https://images.unsplash.com/photo-1601362840469-51e4d8d59085?auto=format&fit=crop&q=80&w=800" 
+                src="/images/image2-3.jpg" 
                 alt="Professional Car Detailing" 
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
