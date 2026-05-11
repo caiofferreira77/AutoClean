@@ -38,17 +38,7 @@ export const Home = () => {
           <p className="text-xl opacity-90 mb-12 font-medium max-w-2xl mx-auto">
             Junte-se a milhares de motoristas exigentes que não abrem mão do cuidado profissional e da conveniência total.
           </p>
-          <div className="flex justify-center">
-            <Link to="/agendar">
-              <motion.button
-                whileHover={{ scale: 1.05, y: -5 }}
-                whileTap={{ scale: 0.95 }}
-                className="bg-white text-blue-600 px-12 py-6 rounded-2xl text-xl font-black shadow-2xl hover:shadow-white/20 transition-all uppercase tracking-tight"
-              >
-                Agendar Lavagem VIP
-              </motion.button>
-            </Link>
-          </div>
+
         </div>
       </section>
     </motion.div>
